@@ -1,0 +1,7 @@
+.DS_S*
+__pycache__/
+*_utils.py
+*_utils.py.*
+*.pyc.*
+!HW08_utils.py
+data/image/0801-500
